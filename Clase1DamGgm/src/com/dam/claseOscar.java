@@ -1,5 +1,8 @@
 package src.com.dam;
 
-public class claseOscar {
+public class claseOScar {
 
+	public static void main(String[] args) {
+		System.out.println("hola");
+	}
 }
