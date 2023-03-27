@@ -1,4 +1,4 @@
-package com.dam;
+package src.com.dam;
 
 public class Prueba {
 
